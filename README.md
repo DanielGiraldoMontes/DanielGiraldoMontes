@@ -145,18 +145,6 @@ An AI-powered personal finance platform available on Android, iOS and Web.
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielGiraldoMontes&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGiraldoMontes&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -174,6 +162,16 @@ An AI-powered personal finance platform available on Android, iOS and Web.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielGiraldoMontes&theme=github-compact"/>
 
 </p>
+
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+</div>
 
 ---
 
